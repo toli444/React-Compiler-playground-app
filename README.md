@@ -14,9 +14,9 @@ In `./src/App.jsx` you can add components you want to test. You can use `console
 
 ### Checking if components have been optimized
 
-You use [React Devtools](https://react.dev/learn/react-developer-tools) (v5.0+), which has built-in support for React Compiler and will display a “Memo ✨” badge next to components that have been optimized by the compiler. 
+You can use [React Devtools](https://react.dev/learn/react-developer-tools) (v5.0+), which has built-in support for React Compiler and will display a “Memo ✨” badge next to components that have been optimized by the compiler. 
 
-There you can also enable “Highlight updates when components render” option for a visual indication when components rerender (However, I found that it does not always accurately work with components optimized by React Compiler, so using `console.log` to check if the component is re-rendered seems more reliable as of now).
+There you can also enable `Highlight updates when components renderk` option for a visual indication when components rerender (However, I found that it does not always accurately work with components optimized by React Compiler, so using `console.log` to check if the component is re-rendered seems more reliable as of now).
 
 ### Checking how components have been optimized
 
