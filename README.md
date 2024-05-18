@@ -25,6 +25,16 @@ examine the `dist` folder to see the output of the React Compiler (open `./dist/
 
 You can also copy your code to [React Compiler online playground](https://playground.react.dev/) and see the compilation result there. 
 
+### Running app example
+
+Example of the project running and how it can be used to detect unexpected behavior of React Compiler:
+
+![running_app_example](https://github.com/toli444/React-Compiler-playground-app/assets/14879804/69840e7a-a5d3-43d0-8716-97ac840d2ca9)
+
+Read more about it in this article:
+
+https://medium.com/@anatoli.semianiaka/react-compiler-common-memoization-gotcha-in-your-react-app-78fae189a02f
+
 ## How the project is setup
 
 https://react.dev/learn/react-compiler#usage-with-vite
