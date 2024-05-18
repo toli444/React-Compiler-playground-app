@@ -1,6 +1,6 @@
-# React Compiler playground app
+# React Compiler playground app ✨✨✨
 
-This project provides a minimal setup for a React app powered by [React Compiler](https://react.dev/learn/react-compiler).
+This project provides a minimal setup for a React 19 app powered by [React Compiler](https://react.dev/learn/react-compiler).
 In this developer playground you can prototype and test how React Compiler will optimize re-renders in React applications.
 
 ## Quick start
