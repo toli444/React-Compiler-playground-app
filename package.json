@@ -1,7 +1,8 @@
 {
-  "name": "react-19-with-compiler-project",
-  "private": true,
-  "version": "0.0.0",
+  "name": "react-compiler-playground-app",
+  "author": "Anatoli Semianiaka <toli44777@gmail.com>",
+  "description": "A developer playground app to test how React Compiler will optimize re-renders in React applications.",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
